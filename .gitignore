@@ -1,0 +1,7 @@
+*.log
+*.iml
+build/
+target/
+.idea/
+logs/
+temp/

@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<suite name="All test cases">
+    <test name="All tests">
+        <classes>
+            <class name="ApiRegisterTest"/>
+            <class name="ApiUserTest"/>
+            <class name="ApiResourceTest"/>
+        </classes>
+    </test>
+</suite>
